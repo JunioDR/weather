@@ -28,6 +28,7 @@
 .forecast-day,
 .forecast-description {
   text-transform: capitalize;
+  text-decoration: underline;
   font-size: 1rem;
   font-weight: bold;
 }
